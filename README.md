@@ -3,8 +3,7 @@ Repository of projects for the [Digital Humanities &amp; Digital Knowledge Maste
 
 ## A.Y. 2021/22
 ### Courses:
-  
-  
+   
 - <b>Data Science</b>, Prof. S.Peroni: [view repository]()
 - <b>Knowledge Representation and Extraction</b>, Prof. A.Gangemi: [view repository]()
 - <b>Information Modeling and Web Technologies</b>, Prof. F.Vitali: [view repository]() - [website]()
