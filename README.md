@@ -3,7 +3,7 @@ Repository of projects for the [Digital Humanities &amp; Digital Knowledge maste
 
 ## A.Y. 2021/22
 ### Courses:
-- <b>Data Science</b>, Prof. S.Peroni, <i>status</i> - <b>finished</b>: [view repository](https://github.com/EverythingIsSoupGroup/SoupSoftware.git)
+- <b>Data Science</b>, Prof. S.Peroni, <i>status</i> - <b>finished</b>: [view repository](https://github.com/Postitisnt/MisoSoup.git)
 - <b>Knowledge Representation and Extraction</b>, Prof. A.Gangemi, <i>status</i> - <b>ongoing</b>: [view repository]()
 - <b>Information Modeling and Web Technologies</b>, Prof. F.Vitali, <i>status</i> - <b>ongoing</b>: [view repository]() - [website]()
 - <b>Digital Text in the Humanities</b>, Prof. T.Mancinelli, <i>status</i> - <b>ongoing</b>: [view repository](https://github.com/gobbykid/gobbykid-text-analysis.git) - [website]() 
