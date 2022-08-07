@@ -1,5 +1,5 @@
 # DHDK_Projects
-Repository of projects for the [Digital Humanities &amp; Digital Knowledge Master degree](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) held by the University of Bologna.
+Repository of projects for the [Digital Humanities &amp; Digital Knowledge master degree](https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge) held by the University of Bologna.
 
 ## A.Y. 2021/22
 ### Courses:
