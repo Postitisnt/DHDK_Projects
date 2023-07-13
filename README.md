@@ -4,8 +4,8 @@ Repository of projects for the [Digital Humanities &amp; Digital Knowledge maste
 ## A.Y. 2022/23
 ### Courses:
 - <b>Network Analysis</b>, Prof. S.Giallorenzo, <i>status</i> - <b>finished</b>: [view repository](https://github.com/Postitisnt/COVID-19-Citations-Network-Analysis)
-- <b>Machine Learning</b>, Prof. A.Asperti, <i>status</i> - <b>finished</b>: [Deep Learning Project repository](https://github.com/Postitisnt/PolarExpress) - [Deep Reinforcement Learning Project repository](https://github.com/Postitisnt/MicroRacer_PAO)
-
+- <b>Machine Learning</b>, Prof. A.Asperti, <i>status</i> - <b>finished</b>: [Machine Learning Project repository](https://github.com/Postitisnt/PolarExpress) - [Deep Reinforcement Learning Project repository](https://github.com/Postitisnt/MicroRacer_PAO)
+- <b>Deep Learning</b>, Prof. A.Asperti, <i>status</i> - <b>finished</b>: [Deep Learning Project repository](https://github.com/Postitisnt/Next-Frame-Prediction)
 ## A.Y. 2021/22
 ### Courses:
 - <b>Data Science</b>, Prof. S.Peroni, <i>status</i> - <b>finished</b>: [view repository](https://github.com/Postitisnt/MisoSoup.git)
